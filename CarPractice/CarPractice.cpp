@@ -46,6 +46,5 @@ int main()
 	PrintCars(Mater);
 	PrintCars(Doc);
 
-
 }
 
